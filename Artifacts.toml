@@ -1,0 +1,160 @@
+[[Cairo_NoGPL]]
+arch = "aarch64"
+git-tree-sha1 = "7f02259e87e59f2cff1aa5453082fb534061b786"
+os = "macos"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "858aeb20d936238970ed3fa03172d7defce398bcc975bb142eaa5e370ca70378"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.aarch64-apple-darwin.tar.gz"
+[[Cairo_NoGPL]]
+arch = "aarch64"
+git-tree-sha1 = "55cf55e9f1b742df20506324f19c103cb2b03d6b"
+libc = "glibc"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "b8ce13a9b3c547dff4173a22eb011dbbdbaaaf33a539fc12eb18799445aa4970"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.aarch64-linux-gnu.tar.gz"
+[[Cairo_NoGPL]]
+arch = "aarch64"
+git-tree-sha1 = "422663aef1aca109a72169fdd030af96e53cbb9d"
+libc = "musl"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "6502e8a8f568aacb6057e241260d0e0171f61b66cb33a014400a1cdb4aac2e5a"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.aarch64-linux-musl.tar.gz"
+[[Cairo_NoGPL]]
+arch = "aarch64"
+git-tree-sha1 = "3d960e7b05799d0d23252a6c8a3782eba6782496"
+os = "freebsd"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "59184a3faf14f5d97c394d766f4cc5e5c2d0244a03145795e58a0ad9395cad05"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.aarch64-unknown-freebsd.tar.gz"
+[[Cairo_NoGPL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "63f227310cb6317a75ff930b72faae1da52fb515"
+libc = "glibc"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "fc90d70184215bf38540f24e7f730d4b913d20b255b92fe28681b9f78d68a870"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.armv6l-linux-gnueabihf.tar.gz"
+[[Cairo_NoGPL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dd060e882a37b745f1922f19cd0e3cb835e0c0e8"
+libc = "musl"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "7451edd534e335d755210c5a4b1e072ddd6c9483023d57dcf42c391182e1a937"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.armv6l-linux-musleabihf.tar.gz"
+[[Cairo_NoGPL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "14a7c0f1f35df561bbf3b481a2e26d864ee60096"
+libc = "glibc"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "ea9ec8942d30a9d88c0c74d39646ba5380c85567ef8d8d15e9cfbbc8f09527f1"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.armv7l-linux-gnueabihf.tar.gz"
+[[Cairo_NoGPL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "86cbaa2009b315c5c3ab5ae4ad35c226981592f3"
+libc = "musl"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "a770b9e95d764bb068147ab5c437ba0c80de20c55b064e8378a1fff430a633ed"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.armv7l-linux-musleabihf.tar.gz"
+[[Cairo_NoGPL]]
+arch = "i686"
+git-tree-sha1 = "a69fcf589ab73057990e30cf96f0bd9f63ba1a78"
+libc = "glibc"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "8fc0ac5127c03281332e6e24d5d1350e7461b3f97593703d3c6ac9d166b51e22"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.i686-linux-gnu.tar.gz"
+[[Cairo_NoGPL]]
+arch = "i686"
+git-tree-sha1 = "5be958b842159fd0b40190576a0c85694c9e8b99"
+libc = "musl"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "dee1c484a838ae4d95a2d7be83de287ec06dfc8d2a82f108186fd2157e142f79"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.i686-linux-musl.tar.gz"
+[[Cairo_NoGPL]]
+arch = "i686"
+git-tree-sha1 = "1c4dbb09af76462212ba1d293780187287d13469"
+os = "windows"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "26b765bce65ed8c6d5156539f382107dd1830ffcffd278a0dbde4491c861c24b"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.i686-w64-mingw32.tar.gz"
+[[Cairo_NoGPL]]
+arch = "powerpc64le"
+git-tree-sha1 = "ec1be7f8668c0cc80107af31847ac6dcdd6a13e3"
+libc = "glibc"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "399d288f274fded657171e3cf80fc170e8f8ba6a20731b18be95770efaba9e8a"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.powerpc64le-linux-gnu.tar.gz"
+[[Cairo_NoGPL]]
+arch = "riscv64"
+git-tree-sha1 = "d5540aa03c7b74ab92dc960c3204eff0d668edac"
+libc = "glibc"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "311671372f067e4ccb6e10574c3cb06f7629a2019c1041bf48f25ace745aae50"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.riscv64-linux-gnu.tar.gz"
+[[Cairo_NoGPL]]
+arch = "x86_64"
+git-tree-sha1 = "1cfc27737bd35dca62a2f9f3b60e14fc703776e4"
+os = "macos"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "f67ac03848caa5a544b097574590cc1626b1220f941e373cf3f1b092fe4528b2"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.x86_64-apple-darwin.tar.gz"
+[[Cairo_NoGPL]]
+arch = "x86_64"
+git-tree-sha1 = "4aab4a8c75123aefaa0a089522e6420c783b713f"
+libc = "glibc"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "2f88c8bc41b9cba91f00378fd40c7b95293a7f170a87c88ff61efd98820737bb"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.x86_64-linux-gnu.tar.gz"
+[[Cairo_NoGPL]]
+arch = "x86_64"
+git-tree-sha1 = "93eebc0c4cdd5a0de741153f4c2749aa449d1756"
+libc = "musl"
+os = "linux"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "65ab38a359b86868b6856e6b966942501cfbe6362a3acc4391b51606f754470d"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.x86_64-linux-musl.tar.gz"
+[[Cairo_NoGPL]]
+arch = "x86_64"
+git-tree-sha1 = "b6f5d69c77214e1b4dd530d828d60affa4b0a0a5"
+os = "freebsd"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "f21d7dd836bf6da43ab7ed15002b34043c311f243fe543006439c826dfdf0aa8"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.x86_64-unknown-freebsd.tar.gz"
+[[Cairo_NoGPL]]
+arch = "x86_64"
+git-tree-sha1 = "76022e6d1054e4f4983ad46f7b67fc60a68fe2f9"
+os = "windows"
+
+    [[Cairo_NoGPL.download]]
+    sha256 = "58cb991af78c00247788c1fa8de4272832742ced25054f92cddff9a9cfeb350d"
+    url = "https://github.com/JuliaBinaryWrappers/Cairo_NoGPL_jll.jl/releases/download/Cairo_NoGPL-v1.18.5+0/Cairo_NoGPL.v1.18.5.x86_64-w64-mingw32.tar.gz"
